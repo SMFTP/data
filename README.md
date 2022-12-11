@@ -1,1 +1,3 @@
-＃データ/ 設定 / webhooks
+［備忘録］
+----
+- SMFTP / data / settings / webhooks
